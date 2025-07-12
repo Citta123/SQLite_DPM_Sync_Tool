@@ -1,0 +1,20 @@
+<map>
+    <string name="totalgandabu">0</string>
+    <boolean name="isGanda" value="true" />
+    <boolean name="isTunggal" value="true" />
+    <boolean name="statusDownloadGandaBU" value="false" />
+    <boolean name="isGandaBU" value="true" />
+    <boolean name="isPrabayar" value="true" />
+    <string name="totalprabayar">0</string>
+    <string name="blth">202502</string>
+    <string name="totalganda">0</string>
+    <string name="total">143</string>
+    <boolean name="isConnectIn" value="true" />
+    <boolean name="statusDownloadTuggal" value="true" />
+    <boolean name="statusDownloadPrabayar" value="false" />
+    <boolean name="isLoggedIn" value="true" />
+    <string name="unitup">52260</string>
+    <boolean name="statusDownloadGanda" value="false" />
+    <int name="JenisUser" value="1" />
+    <string name="username">52260.j02- ( FNAJABC )</string>
+</map>
