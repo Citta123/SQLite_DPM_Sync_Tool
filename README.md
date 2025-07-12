@@ -81,7 +81,7 @@ You’ll see console outputs for:
 
 I’m a freelance Python developer specializing in automation and backend operations. If you're managing dozens or hundreds of databases and want to avoid repetitive SQLite work — I can help design smarter solutions tailored to your infrastructure.
 
-✉️ Contact: [email@email.com](mailto:email@email.com)
+✉️ Contact: [plusenergi77@gmail.com](mailto:email@email.com)
 
 ---
 
